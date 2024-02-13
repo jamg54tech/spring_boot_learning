@@ -1,0 +1,1 @@
+# BUSCAR EN GOOGLE "init project spring" e ingresar al primer enlance para que la herramienta genere un proyecto pre configurado con dependencias. La más importante es spring web. 
