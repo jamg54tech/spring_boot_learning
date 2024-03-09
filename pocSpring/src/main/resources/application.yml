@@ -3,7 +3,7 @@ server:
 spring:
   profiles:
     active: dev
----
+--- 
 customVariables:
   variable1: Mi primer variable 1
 spring:
